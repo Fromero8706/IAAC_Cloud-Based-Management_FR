@@ -26,7 +26,10 @@ These examples introduce html and javascript concepts that were part of the semi
 
 # lecture3
 
+These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
+- [Example](example2): Boolean Union with RhinoCompute
+- [Example 2](example2): Remote Solving GH definitions
 
 
 
