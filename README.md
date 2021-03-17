@@ -6,7 +6,7 @@ This repository is part of the final submission for Cloud Based Management Semin
 
 Examples for Lecture 1
 
-These examples introduce html and javascript concepts that were part of the seminar.
+These examples introduce html and javascript concepts that were part of the seminar. Initial phase
 
 - [Example 1](Lhttp://127.0.0.1:5502/Lecture1/Example1/index.html): Simple html and javascript example
 - [Example 2](http://127.0.0.1:5502/Lecture1/Example2/index.html): Creates an html table with javascript
