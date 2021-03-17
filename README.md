@@ -8,28 +8,37 @@ Examples for Lecture 1
 
 These examples introduce html and javascript concepts that were part of the seminar.
 
-- [Example 1](index.html): Simple html and javascript example
-- [Example 2](example2): Creates an html table with javascript
-- [FR -  Assignment 1](assignment1) : Combines two excercises into a single HTML file.
-
+- [Example 1](Lecture1\Example1): Simple html and javascript example
+- [Example 2](Lecture1\Example2): Creates an html table with javascript
+- [FR -  Assignment 1](Lecture1\Assignments) : Combines two excercises into a single HTML file.
 
 # lecture2
 
 Examples for Lecture 2
 
-These examples introduce html and javascript concepts that were part of the seminar.
+These examples introduce html and javascript concepts we'll be using in the seminar. This session builds on [session 1](https://github.com/iaac-macad-s1/lecture1) and shows how to use JavaScript libraries.
 
-- [Example 1](lecture2/example1): Simple html and javascript example
-- [Example 2](lecture2/example2): Creates an html table with javascript
-- [FR -  Assignment 1](assignment1) : Combines two excercises into a single HTML file.
+- [Example 1](Lecture2\example1):A sample that uses the [three.js](https://threejs.org) library
+- [Example 2](Lecture2\example2): A sample that uses the [rhino3dm](https://www.rhino3d.com/features/rhino3dm/) library
+- [Example 3](Lecture2\example3): A sample that creates Rhino objects with the rhino3dm library and visualizes them with three.js
+- [Example 4](Lecture2\example4): Adding new Rhino Geometry
+- [FR -  Assignment 2](Lecture2\Assignment) : Combines two excercises into a single HTML file.
 
 
 # lecture3
 
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
-- [Example](example2): Boolean Union with RhinoCompute
-- [Example 2](example2): Remote Solving GH definitions
+- [Example](Lecture3\example1): Boolean Union with RhinoCompute
+- [Example 2](Lecture3\example2): Remote Solving GH definitions
+- [FR -  Assignment 3](Lecture3\Assignment) : Mesh Wires using rhino file
+
+
+# lecture 4 & 5 Rhino Compute
+
+These examples and excercises developed using  RhinoCompute as a remote geometry calculation service.
+
+- [Link to RhinoCompute Repository](https://github.com/Fromero8706/compute.rhino3d.appserver)
 
 
 
