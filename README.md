@@ -8,8 +8,8 @@ Examples for Lecture 1
 
 These examples introduce html and javascript concepts that were part of the seminar.
 
-- [Example 1](Lecture1\Example1): Simple html and javascript example
-- [Example 2](Lecture1\Example2): Creates an html table with javascript
+- [Example 1](Lhttp://127.0.0.1:5502/Lecture1/Example1/index.html): Simple html and javascript example
+- [Example 2](http://127.0.0.1:5502/Lecture1/Example2/index.html): Creates an html table with javascript
 - [FR -  Assignment 1](http://127.0.0.1:5502/Lecture1/Assignments/FR_Assignment01.html) : Combines two excercises into a single HTML file.
 
 # lecture2
