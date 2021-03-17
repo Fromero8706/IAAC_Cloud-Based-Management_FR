@@ -18,20 +18,20 @@ Examples for Lecture 2
 
 These examples introduce html and javascript concepts we'll be using in the seminar. This session builds on [session 1](https://github.com/iaac-macad-s1/lecture1) and shows how to use JavaScript libraries.
 
-- [Example 1](Lecture2\example1):A sample that uses the [three.js](https://threejs.org) library
-- [Example 2](Lecture2\example2): A sample that uses the [rhino3dm](https://www.rhino3d.com/features/rhino3dm/) library
-- [Example 3](Lecture2\example3): A sample that creates Rhino objects with the rhino3dm library and visualizes them with three.js
-- [Example 4](Lecture2\example4): Adding new Rhino Geometry
-- [FR -  Assignment 2](Lecture2\Assignment) : Combines two excercises into a single HTML file.
+- [Example 1](Lecture2\example1\index.html):A sample that uses the [three.js](https://threejs.org) library
+- [Example 2](Lecture2\example2\index.html): A sample that uses the [rhino3dm](https://www.rhino3d.com/features/rhino3dm/) library
+- [Example 3](Lecture2\example3\index.html): A sample that creates Rhino objects with the rhino3dm library and visualizes them with three.js
+- [Example 4](Lecture2\example4\index.html): Adding new Rhino Geometry
+- [FR -  Assignment 2](Lecture2\Assignment\index.html) : Combines two excercises into a single HTML file.
 
 
 # lecture3
 
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
-- [Example](Lecture3\example1): Boolean Union with RhinoCompute
-- [Example 2](Lecture3\example2): Remote Solving GH definitions
-- [FR -  Assignment 3](Lecture3\Assignment) : Mesh Wires using rhino file
+- [Example](Lecture3\example1\index.html): Boolean Union with RhinoCompute
+- [Example 2](Lecture3\example2\index.html): Remote Solving GH definitions
+- [FR -  Assignment 3](Lecture3\Assignment\index.html) : Mesh Wires using rhino file
 
 
 # lecture 4 & 5 Rhino Compute
