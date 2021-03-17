@@ -29,9 +29,9 @@ These examples introduce html and javascript concepts we'll be using in the semi
 
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
-- [Example](Lecture3\example1\index.html): Boolean Union with RhinoCompute
-- [Example 2](Lecture3\example2\index.html): Remote Solving GH definitions
-- [FR -  Assignment 3](Lecture3\Assignment\index.html) : Mesh Wires using rhino file
+- [Example](http://127.0.0.1:5502/Lecture3/example1/index.html): Boolean Union with RhinoCompute
+- [Example 2](http://127.0.0.1:5502/Lecture3/example2/index.html): Remote Solving GH definitions
+- [FR -  Assignment 3](http://127.0.0.1:5502/Lecture3/Assignment/index.html) : Mesh Wires using rhino file
 
 
 # lecture 4 & 5 Rhino Compute
