@@ -23,7 +23,7 @@ These examples introduce html and javascript concepts we'll be using in the semi
 
 These examples introduce how to use RhinoCompute as a remote geometry calculation service.
 
-- [Link to examples](http://127.0.0.1:5502/Lecture3/example1/index.html)
+- [Link to examples](https://fromero8706.github.io/lecture3/)
 
 
 # lecture 4 & 5 Rhino Compute
