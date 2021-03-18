@@ -31,6 +31,7 @@ These examples introduce how to use RhinoCompute as a remote geometry calculatio
 These examples and excercises developed using  RhinoCompute as a remote geometry calculation service.
 
 - [Link to RhinoCompute Repository](https://github.com/Fromero8706/compute.rhino3d.appserver)
+- [Link to Heroku] (https://iaacappserver.herokuapp.com/examples/rubikcube/)
 
 
 
