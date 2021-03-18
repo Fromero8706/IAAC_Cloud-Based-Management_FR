@@ -8,9 +8,7 @@ Examples for Lecture 1
 
 These examples introduce html and javascript concepts that were part of the seminar. Initial phase
 
-- [Example 1](Lhttp://127.0.0.1:5502/Lecture1/Example1/index.html): Simple html and javascript example
-- [Example 2](http://127.0.0.1:5502/Lecture1/Example2/index.html): Creates an html table with javascript
-- [FR -  Assignment 1](http://127.0.0.1:5502/Lecture1/Assignments/FR_Assignment01.html) : Combines two excercises into a single HTML file.
+- [Link to examples](https://fromero8706.github.io/lecture1/):html and javascript examples
 
 # lecture2
 
@@ -18,11 +16,7 @@ Examples for Lecture 2
 
 These examples introduce html and javascript concepts we'll be using in the seminar. This session builds on [session 1](https://github.com/iaac-macad-s1/lecture1) and shows how to use JavaScript libraries.
 
-- [Example 1](http://127.0.0.1:5502/Lecture2/example1/index.html):A sample that uses the [three.js](https://threejs.org) library
-- [Example 2](http://127.0.0.1:5502/Lecture2/example2/index.html): A sample that uses the [rhino3dm](https://www.rhino3d.com/features/rhino3dm/) library
-- [Example 3](http://127.0.0.1:5502/Lecture2/example3/index.html): A sample that creates Rhino objects with the rhino3dm library and visualizes them with three.js
-- [Example 4](http://127.0.0.1:5502/Lecture2/example4/index.html): Adding new Rhino Geometry
-- [FR -  Assignment 2](http://127.0.0.1:5502/Lecture2/Assignment/index.html) : Combines two excercises into a single HTML file.
+- [Link to examples](https://fromero8706.github.io/lecture2/):A sample that uses the [three.js](https://threejs.org) library and creates Rhino objects with the rhino3dm library 
 
 
 # lecture3
